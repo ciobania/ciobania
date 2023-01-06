@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I’m Adrian
+
+- 👀 I’m interested in: IoT, AI, Embedded Software, Test Automation
+- 🌱 I’m currently learning: ML / AI
+- 🤔 I’m looking for help with: PCB design, learning more about Data Science and AI / ML
+- 💞️ I’m looking to collaborate on: anything and everything related to my interests, and helping others achieve their goals
+- 💬 Ask me about: SDLC, Agile, DevOps & CI / CD, testing, automation and anything else peeks your interest, even if it's to bounce ideas
+- 📫 How to reach me: drop me a message
+
+
 <!--
 **ciobania/ciobania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
